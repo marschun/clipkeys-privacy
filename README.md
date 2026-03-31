@@ -1,2 +1,1 @@
-# clipkeys-privacy
-ClipKeys privacy policy for Google Play Store
+ClipKeys privacy policy for Google Play Store.
